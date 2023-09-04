@@ -464,13 +464,13 @@ header .navbar ul li a:hover {
   background: linear-gradient(to bottom, #fff, #fff);
 }
 .skills h2 {
-  color: rgb(115, 3, 167);
+  color: #09011b;
 }
 .skills .heading span {
   color: #0e0e0e;
 }
 .skills .container {
-  background: rgba(0, 0, 22, 0.4);
+  background: rgb(255,255,255);
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
