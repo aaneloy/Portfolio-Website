@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Graphic Designing", "Branding and Promotion Works", "Logos and Flyers", "Social Media promotions", "Project Management"],
+    strings: ["Graphic Designing", "Branding & Promotion Works", "Logos & Flyers", "Social Media promotions", "Project Management"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
