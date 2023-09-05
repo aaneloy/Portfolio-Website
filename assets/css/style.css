@@ -488,8 +488,8 @@ header .navbar ul li a:hover {
   margin-bottom: 15px;
   padding: 10px;
   border-radius: 1rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  background: rgba(0, 0, 22, 0.9);
+  box-shadow: 0 4px 10px rgb(255,255,255);
+  background: rgb(255,255,255);
   transition: 0.2s;
 }
 .skills .container .bar:hover {
