@@ -740,7 +740,7 @@ header .navbar ul li a {
 /* work section starts */
 .work {
     /* background: #010124; */
-    background: linear-gradient(to bottom, #000031, #00002c);
+    background: linear-gradient(to bottom, #f2f2f5, #fff);
 }
 
     .work h2 {
@@ -749,7 +749,7 @@ header .navbar ul li a {
     }
 
     .work .heading span {
-        color: rgb(255, 230, 0);
+        color: #070707;
     }
 
     .work .box-container {
