@@ -188,7 +188,7 @@ header .navbar ul li a:hover{
   font-weight: 500;
 }
 .work .button-group .btn:hover{
-  background-color: #0E2431;
+  background-color: rgb(235, 202, 245);
   color: #000;
 }
 .work .button-group .btn.is-checked{
