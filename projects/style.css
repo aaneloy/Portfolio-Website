@@ -181,8 +181,8 @@ header .navbar ul li a:hover{
   outline: none;
   padding: 1rem 2rem;
   background: transparent;
-  color: #fff;
-  border: 1px solid #fff;
+  color: #0E2431;
+  border: 1px solid #0E2431;
   border-radius: 3px;
   cursor: pointer;
   font-weight: 500;
@@ -204,7 +204,7 @@ header .navbar ul li a:hover{
 .work .box-container .box{
   flex:1 1 30rem;
   border-radius: .5rem;
-  box-shadow: 0 .7rem 1rem rgba(255,255,255);
+  box-shadow: 0 .7rem 1rem #000;
   position: relative;
   overflow:hidden;
   height:30rem;
