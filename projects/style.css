@@ -158,15 +158,15 @@ header .navbar ul li a:hover{
 /* work section starts */
 .work{
   /* background: #010124; */
-  background: linear-gradient(to bottom, #010136, #00003a);
+  background: linear-gradient(to bottom, #fff, #fff);
   margin-top: 5rem;
 }
 .work h2{
-  color: #fff;
+  color: #000;
   padding: 1rem;
 }
 .work .heading span{
-  color: rgb(255, 230, 0);
+  color: #000;
 }
 .work .button-group{
   display: flex;
@@ -204,7 +204,7 @@ header .navbar ul li a:hover{
 .work .box-container .box{
   flex:1 1 30rem;
   border-radius: .5rem;
-  box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
+  box-shadow: 0 .7rem 1rem rgba(255,255,255);
   position: relative;
   overflow:hidden;
   height:30rem;
