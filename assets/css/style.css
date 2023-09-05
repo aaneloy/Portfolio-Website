@@ -762,7 +762,7 @@ header .navbar ul li a {
         .work .box-container .box {
             flex: 1 1 30rem;
             border-radius: 0.5rem;
-            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 255);
             position: relative;
             overflow: hidden;
             height: 30rem;
@@ -780,7 +780,7 @@ header .navbar ul li a {
                 position: absolute;
                 top: 85%;
                 left: 0;
-                background: rgba(0, 0, 0, 0.72);
+                background: rgb(27, 27, 27);
                 display: flex;
                 flex-direction: column;
             }
@@ -848,7 +848,7 @@ header .navbar ul li a {
             padding: 1.6rem 3rem;
             border-radius: 0.5em;
             transition: 0.5s;
-            color: rgb(255, 255, 255);
+            color: rgba(0, 0, 22, 0.9);
             font-weight: 700;
             border: 2px solid #fff;
             box-shadow: 0px 5px 10px rgba(65, 84, 241, 0.4);
