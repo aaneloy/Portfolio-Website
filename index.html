@@ -159,7 +159,7 @@
 <!-- education section ends -->
 
 
-<!-- work project section starts -->
+<!-- work project section starts
 <section class="work" id="work">
 
   <h2 class="heading"><i class="fas fa-laptop-code"></i> Projects <span>Made</span></h2>
@@ -180,8 +180,8 @@
           </div>
         </div>
       </div>
-    </div> -->
-
+    </div> --->
+<!--
 </div>
 
 <div class="viewall">
@@ -191,7 +191,42 @@
 </div>
 
 </section>
-<!-- work project section ends -->
+ work project section ends -->
+
+
+ <section class="about" id="about">
+  <h2 class="heading"><i class="fas fa-user-alt"></i> Projects<span>Made</span></h2>
+  <div class="row">
+    <div class="column">
+      <img src="img_nature.jpg" alt="Nature" onclick="myFunction(this);">
+    </div>
+    <div class="column">
+      <img src="img_snow.jpg" alt="Snow" onclick="myFunction(this);">
+    </div>
+    <div class="column">
+      <img src="img_mountains.jpg" alt="Mountains" onclick="myFunction(this);">
+    </div>
+    <div class="column">
+      <img src="img_lights.jpg" alt="Lights" onclick="myFunction(this);">
+    </div>
+  </div>
+  
+
+  <!-- The expanding image container -->
+  <div class="container">
+    <!-- Close the image -->
+    <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  
+    <!-- Expanded image -->
+    <img id="expandedImg" style="width:100%">
+  
+    <!-- Image text -->
+    <div id="imgtext"></div>
+  </div>
+</section>
+
+
+
 
 <!-- experience section starts -->
 <section class="experience" id="experience">
